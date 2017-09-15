@@ -1,6 +1,3 @@
-function objects() {
-};
-
-var recipes = new object();
+var recipes = {}
 
   
